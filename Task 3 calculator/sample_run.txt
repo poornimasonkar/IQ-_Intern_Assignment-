@@ -1,0 +1,21 @@
+python calculator.py
+
+Enter your name: Poornima
+Enter card balance: 500
+Enter wallet cash: 300
+Enter cost of one meal: 50
+Enter one-way travel cost: 40
+Enter number of working days: 5
+Enter start date (dd/mm/yyyy): 02/06/2026
+
+  Summary for Poornima
+  
+Daily travel cost  : Rs. 40.0
+Daily meal cost    : Rs. 50.0
+Total travel cost  : Rs. 200.0
+Total meal cost    : Rs. 250.0
+Remaining card     : Rs. 300.0
+Remaining wallet   : Rs. 50.0
+Office start date  : 02/06/2026
+Office end date    : 06/06/2026
+=============================

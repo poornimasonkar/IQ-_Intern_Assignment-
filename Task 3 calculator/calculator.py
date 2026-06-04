@@ -1,7 +1,6 @@
 #Task 3 office Commuter Calculator
 
-from datetime import datetime, timedelta
-from tracemalloc import start  # timedelta lets add days to a date
+from datetime import datetime, timedelta  # timedelta lets add days to a date
 
 # Step 1 — Collect all inputs
 
@@ -15,12 +14,6 @@ start_date = input("Enter the start date (DD/MM/YYYY): ")
 
 # Step 2 — Validate inputs with try/except
 try:
-    c = card 
-    w = wallet
-    m = meals 
-    t = travel
-    d = days
-
     if days <=0:
         print ("Error: Days must be a positive integer.")
 
